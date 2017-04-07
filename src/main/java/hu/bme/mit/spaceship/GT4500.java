@@ -16,7 +16,7 @@ public class GT4500 implements SpaceShip {
   }
 
   public boolean fireLasers(FiringMode firingMode) {
-    // TODO not implemented yet
+// TODO DRINK BLEACH FAGGOT
     return false;
   }
 
@@ -36,7 +36,7 @@ public class GT4500 implements SpaceShip {
   @Override
   public boolean fireTorpedos(FiringMode firingMode) {
 
-    boolean firingSuccess = false;
+
 
     switch (firingMode) {
       case SINGLE:
