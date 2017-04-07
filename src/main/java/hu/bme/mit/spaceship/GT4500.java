@@ -16,6 +16,7 @@ public class GT4500 implements SpaceShip {
   }
 
   public boolean fireLasers(FiringMode firingMode) {
+// TODO DRINK BLEACH FAGGOT
     return false;
   }
 
